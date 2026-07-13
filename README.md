@@ -185,6 +185,9 @@ These insights can help businesses improve customer support operations and enhan
 
 ---
 
+<img width="902" height="383" alt="image" src="https://github.com/user-attachments/assets/f2d06e8e-7e0a-4bfc-ac7d-36881358a376" />
+
+
 # Conclusion
 
 The Customer Support Dashboard Project in Excel demonstrates strong skills in data analysis, dashboard development, and business reporting. The project successfully transforms raw customer support data into meaningful insights through interactive visualizations and KPI tracking.
